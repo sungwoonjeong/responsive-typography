@@ -54,6 +54,10 @@ blockquote {
   font-size: 1.125rem;
 }
 
+article ol {
+  padding: 0 0 0 1em;
+}
+
 .quote {
   color: #999;
 }
